@@ -1,5 +1,5 @@
 ## Before Start
-#### Make sure you Choco installed
+#### Make sure you have Choco installed
 * https://community.chocolatey.org/
 #### Make sure you have Minikube installed
 * https://minikube.sigs.k8s.io/docs/start/
