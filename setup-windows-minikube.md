@@ -17,7 +17,7 @@ If you have problems with ingress-nginx-controller-admission, execute this: </br
 ``` kubectl delete -A ValidatingWebhookConfiguration ingress-nginx-admission ```
 
 ### Third step
-create a keycloak deployment as a service
+create a keycloak deployment as a service </br>
 ```kubectl create -f https://raw.githubusercontent.com/keycloak/keycloak-quickstarts/latest/kubernetes-examples/keycloak.yaml```
 
 ### Fourth step
