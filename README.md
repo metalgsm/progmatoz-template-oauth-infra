@@ -1,14 +1,15 @@
+# Welcome to Progmatoz Template oAuth Infra
 ## Before Start
-#### Make sure you have Choco installed
+#### Make sure you have Choco installed (windows users)
 * https://community.chocolatey.org/
 #### Make sure you have Minikube installed
 * https://minikube.sigs.k8s.io/docs/start/
 
-### First step
+### First step (windows users)
 Install the wget for windows </br>
 ```choco install wget ```
 
-### Second step
+### Second step (windows users)
 Install the sed for windows </br>
 ``` choco install sed ```
 
